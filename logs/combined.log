@@ -1,0 +1,10 @@
+{"level":"info","message":"Server initialized on port 3000","timestamp":"2025-03-30T11:26:57.224Z"}
+{"level":"info","message":"exponent operation: 2 exponent 3 = 8","timestamp":"2025-03-30T11:27:29.020Z"}
+{"level":"info","message":"exponent operation: 2 exponent 3 = 8","timestamp":"2025-03-30T11:27:29.397Z"}
+{"level":"error","message":"400 - Invalid numerical inputs","timestamp":"2025-03-30T11:27:29.400Z"}
+{"level":"info","message":"modulo operation: 10 modulo 3 = 1","timestamp":"2025-03-30T11:30:15.187Z"}
+{"level":"info","message":"modulo operation: 10 modulo 3 = 1","timestamp":"2025-03-30T11:30:15.526Z"}
+{"level":"error","message":"400 - Invalid numerical inputs","timestamp":"2025-03-30T11:30:15.540Z"}
+{"level":"info","message":"sqrt operation: √25 = 5","timestamp":"2025-03-30T11:30:27.259Z"}
+{"level":"info","message":"sqrt operation: √25 = 5","timestamp":"2025-03-30T11:30:27.620Z"}
+{"level":"error","message":"400 - Invalid numerical inputs","timestamp":"2025-03-30T11:30:27.638Z"}
